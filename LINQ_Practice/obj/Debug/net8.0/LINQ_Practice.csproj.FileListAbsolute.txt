@@ -1,0 +1,14 @@
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.exe
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.deps.json
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.runtimeconfig.json
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.dll
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.pdb
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.AssemblyInfoInputs.cache
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.AssemblyInfo.cs
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.csproj.CoreCompileInputs.cache
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.dll
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\refint\LINQ_Practice.dll
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.pdb
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.genruntimeconfig.cache
+C:\HyHuynh\TrueCoders\repos\LINQ_Practice\LINQ_Practice\obj\Debug\net8.0\ref\LINQ_Practice.dll
